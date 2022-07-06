@@ -1,2 +1,8 @@
 This is the first line in a.txt
 This is the second line in a.txt
+This is the third line
+Python
+Machine Learning
+Artificial Intelligence
+DataScience
+Django
